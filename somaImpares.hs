@@ -11,5 +11,5 @@ soma (a:as)
 
 main :: IO ()
 main =  do
-putStr "Sum of x + y = "
+putStr "Sum of a = "
 print(soma [1,3,2,7,4,6,5] )
